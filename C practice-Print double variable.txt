@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main(){
+
+    double Num1= 10.443;
+    
+    printf("%.3f",Num1);
+   
+    return 0;
+}
